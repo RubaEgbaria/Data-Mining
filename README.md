@@ -1,6 +1,6 @@
 ## Data-Mining
 
-1.Read ‘Climate Change_ Earth Surface Temperature Data.zip'. it includes for csv file
+1.Read ‘Climate Change_ Earth Surface Temperature Data.zip'. it includes for CSV file
 
 2.Merge the four table into one table
 
