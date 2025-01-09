@@ -1,10 +1,10 @@
 ## Data-Mining
 
-1. Read ‘Climate Change_ Earth Surface Temperature Data.zip'. it includes for CSV file
+1. Read ‘Climate Change_ Earth Surface Temperature Data.zip'. it includes a CSV file
 
 2. Merge the four tables into one table
 
-3. View some basic information about the data frame such info, columns, shape, statistics such as mean, count, etc.
+3. View some basic information about the data frame such info, columns, shape, and statistics such as mean, count, etc.
 
 4 . Preprocess the table from missing, outlier, duplicate, etc.
 
